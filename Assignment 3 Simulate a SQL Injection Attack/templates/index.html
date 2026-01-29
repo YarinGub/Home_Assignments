@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="he">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>SQL Injection Demo</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; direction: rtl; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .card { border: 1px solid #ddd; border-radius: 10px; padding: 16px; }
+    input { width: 100%; padding: 10px; margin: 8px 0; }
+    button { padding: 10px 14px; cursor: pointer; }
+    .result { margin-top: 12px; padding: 10px; background: #f7f7f7; border-radius: 8px; }
+    code { background: #f0f0f0; padding: 2px 6px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <h1>דמו SQL Injection</h1>
+  <p>
+    משתמשים לדוגמה: <code>alice / alice123</code> , <code>bob / bob123</code>
+  </p>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Login פגיע</h2>
+      <form method="post" action="/login-vulnerable">
+        <label>Username</label>
+        <input name="username" required />
+        <label>Password</label>
+        <input name="password" required />
+        <button type="submit">Login (Vulnerable)</button>
+      </form>
+      {% if vuln_result %}
+        <div class="result">{{ vuln_result }}</div>
+      {% endif %}
+    </div>
+
+    <div class="card">
+      <h2>Login מאובטח</h2>
+      <form method="post" action="/login-secure">
+        <label>Username</label>
+        <input name="username" required />
+        <label>Password</label>
+        <input name="password" required />
+        <button type="submit">Login (Secure)</button>
+      </form>
+      {% if secure_result %}
+        <div class="result">{{ secure_result }}</div>
+      {% endif %}
+    </div>
+  </div>
+
+  <hr style="margin: 24px 0;"/>
+  <p>
+    בדיקה: התחברי עם alice/alice123 בשני הצדדים (צריך להצליח).
+    ואז נסי את מחרוזת ה־SQL Injection שהמטלה נתנה בטופס הפגיע ובטופס המאובטח (במאובטח זה חייב להיכשל).
+  </p>
+</body>
+</html>
