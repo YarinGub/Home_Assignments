@@ -1,0 +1,128 @@
+﻿[
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\.ses",
+        "size":  53,
+        "mtime":  "2026-01-28T13:38:05.2740216Z",
+        "sha256":  "9F5A9D8DFC4612E7234BCBD1C2B9FFC52B56EB43D881E1FA5E7D239E442F5818"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\0072878d-c589-4efe-81bb-db8973b9d100.tmp",
+        "size":  2101484,
+        "mtime":  "2026-01-28T11:01:22.8320827Z",
+        "sha256":  "296D2F77EBB3D39C6DCA0275D760555985795CADC42E33D007FC5CC385A9D8B3"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\18e190413af045db88dfbd29609eb877.db",
+        "size":  24576,
+        "mtime":  "2026-01-28T11:04:34.3586057Z",
+        "sha256":  "91695896BF9B6FB2B2064DDE2BC0C90AF966B78E3BB4FFBACD3CA9B19D0B26A7"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\18e190413af045db88dfbd29609eb877.db.session64",
+        "size":  66208,
+        "mtime":  "2026-01-28T11:01:18.7443697Z",
+        "sha256":  "D7468DDE6F2A23124B8357023353653FF219A5C4F1C6CE98D086422591E875F6"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\31a77520-3d50-4b7b-8ab9-d560d8956b8f.tmp",
+        "size":  0,
+        "mtime":  "2026-01-28T11:01:51.1469736Z",
+        "sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\616a5c28-b13b-4f4e-a57c-b81e5873e45b.tmp",
+        "size":  761363,
+        "mtime":  "2026-01-28T11:01:39.4095995Z",
+        "sha256":  "A6AB06F406E9A93F8FC37B940F909668620F1324CF9A901B8FC32A0C1531E8FE"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\8ec60740-bcf9-4403-a022-d4acd1c0c585.tmp",
+        "size":  1118694,
+        "mtime":  "2026-01-28T11:01:42.8794444Z",
+        "sha256":  "3C1AE1A32C9713992A069481B4B67CA04F3FA2FFCD9E6F74EF959B05F12F88BE"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\e3ac085a-a1be-44db-b2d3-4a33eef09754.tmp",
+        "size":  800556,
+        "mtime":  "2026-01-28T11:02:14.6641989Z",
+        "sha256":  "8B11197F46F6D84A928872E24C8408212D838B7DCF3525453DE55D88B4B4F685"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\e7989969-f41f-46e8-b520-ed2c9e8c4096.tmp",
+        "size":  0,
+        "mtime":  "2026-01-28T11:02:34.6740780Z",
+        "sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\evil.txt",
+        "size":  24,
+        "mtime":  "2026-01-28T13:40:20.9106032Z",
+        "sha256":  "FAEDAB5E44FAEB21ADBF243E7157682AD93F8A91A7D7CD52D5ED6650177BCB56"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\msedge_installer.log",
+        "size":  4792,
+        "mtime":  "2026-01-28T20:32:44.0104244Z",
+        "sha256":  "01BFB52A4C5AE516C10B5E1E7A7545CFEE41B932F94632D15CDA9EA9E9B5114C"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\offline",
+        "size":  45056,
+        "mtime":  "2026-01-28T11:04:34.3896127Z",
+        "sha256":  "371C2BE1547FBF2076233F9BE03190663A89B77C72211CA1E1EDA080A1ECF31C"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\offline.session64",
+        "size":  66208,
+        "mtime":  "2026-01-28T11:01:18.0696031Z",
+        "sha256":  "761FA1BD1C39B5BD0667DA47661CCE8850CF063299DA9E8CA41DD7E7EF550194"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\sandbox_test.txt",
+        "size":  32,
+        "mtime":  "2026-01-28T13:03:30.3789719Z",
+        "sha256":  "EFA737BBA2A7684B5669C89165582CD7BB606BBF11764F56DF50FB859161B06B"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\test_sandbox.txt",
+        "size":  16,
+        "mtime":  "2026-01-28T13:00:31.5656939Z",
+        "sha256":  "99F86E1BE6DE5AE82B3F23977B65EBE43CB8359B37B6CF0AB8E6C2EAA0C99193"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\wct2501.tmp",
+        "size":  0,
+        "mtime":  "2026-01-28T20:34:12.8043692Z",
+        "sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\wct6B33.tmp",
+        "size":  42164600,
+        "mtime":  "2021-11-21T20:18:52.0000000Z",
+        "sha256":  "E70E80DBBC9BABA7DDCEE70EDA1BB8D0E6612DFB1D93827FE7B594A59F3B48B9"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\wct7ECB.tmp",
+        "size":  0,
+        "mtime":  "2026-01-28T12:03:44.5528904Z",
+        "sha256":  "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\wctA202.tmp",
+        "size":  64854,
+        "mtime":  "2022-09-17T00:05:25.0000000Z",
+        "sha256":  "543796A1B343B4EBC0285D89CB8EB70667AC7B513DA37495E38003704E9D88D7"
+    },
+    {
+        "path":  "C:\\Users\\Sandbox\\AppData\\Local\\Temp\\wmsetup.log",
+        "size":  697,
+        "mtime":  "2026-01-28T20:32:42.6975751Z",
+        "sha256":  "5148F58C2BF2004BD5340ADF7EE267FC45EE799DC24F158671862205DCF32A52"
+    },
+    {
+        "path":  "C:\\Sandbox\\in\\fake_malware.ps1",
+        "size":  155,
+        "mtime":  "2026-01-28T13:39:47.2459994Z",
+        "sha256":  "584BF9472B5C46240F000F94F0818F3CAD3C2731F813CE48380EFDB19A02A989"
+    }
+]

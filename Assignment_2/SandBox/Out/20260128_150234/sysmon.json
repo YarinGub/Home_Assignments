@@ -1,0 +1,1002 @@
+﻿[
+    {
+        "timeCreated":  "2026-01-28T15:05:02.8082417Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:05:02.799\r\nProcessGuid: {2eebbeda-257e-697a-ab00-000000000700}\r\nProcessId: 4944\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:41.0240073Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:41.019\r\nProcessGuid: {2eebbeda-2452-697a-6800-000000000700}\r\nProcessId: 5216\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:32.9788324Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:32.964\r\nProcessGuid: {2eebbeda-2454-697a-6a00-000000000700}\r\nProcessId: 5568\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:31.7173002Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:31.700\r\nProcessGuid: {2eebbeda-257d-697a-aa00-000000000700}\r\nProcessId: 1936\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:30.0565730Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:30.050\r\nProcessGuid: {2eebbeda-257e-697a-ab00-000000000700}\r\nProcessId: 4944\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nFileVersion: 10.0.19041.3803 (WinBuild.160101.0800)\r\nDescription: Microsoft Software Protection Platform Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sppsvc.exe\r\nCommandLine: C:\\Windows\\system32\\sppsvc.exe\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E6C3D5BE4C32AC864A05B10FB82C2B735761CB3A3DFCDBF2A70F956086D33AD4\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:29.0191106Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:29.014\r\nProcessGuid: {2eebbeda-257d-697a-aa00-000000000700}\r\nProcessId: 1936\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:20.0387437Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:20.036\r\nProcessGuid: {2eebbeda-2573-697a-a900-000000000700}\r\nProcessId: 6156\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:04:19.7859893Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:04:19.778\r\nProcessGuid: {2eebbeda-2573-697a-a900-000000000700}\r\nProcessId: 6156\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe Logon\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:51.5144604Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:51.480\r\nProcessGuid: {2eebbeda-252a-697a-a500-000000000700}\r\nProcessId: 5168\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:51.5011071Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:51.480\r\nProcessGuid: {2eebbeda-252b-697a-a600-000000000700}\r\nProcessId: 2728\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:46.3701377Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:46.364\r\nProcessGuid: {2eebbeda-2551-697a-a800-000000000700}\r\nProcessId: 2388\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:46.3322505Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:46.327\r\nProcessGuid: {2eebbeda-2551-697a-a700-000000000700}\r\nProcessId: 6832\r\nImage: C:\\Windows\\System32\\sc.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:45.8092265Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:45.777\r\nProcessGuid: {2eebbeda-2551-697a-a800-000000000700}\r\nProcessId: 2388\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Console Window Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: CONHOST.EXE\r\nCommandLine: \\??\\C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87\r\nParentProcessGuid: {2eebbeda-2551-697a-a700-000000000700}\r\nParentProcessId: 6832\r\nParentImage: C:\\Windows\\System32\\sc.exe\r\nParentCommandLine: \"C:\\Windows\\system32\\sc.exe\" start wuauserv\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:45.7479368Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:45.680\r\nProcessGuid: {2eebbeda-2551-697a-a700-000000000700}\r\nProcessId: 6832\r\nImage: C:\\Windows\\System32\\sc.exe\r\nFileVersion: 10.0.19041.1 (WinBuild.160101.0800)\r\nDescription: Service Control Manager Configuration Tool\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sc.exe\r\nCommandLine: \"C:\\Windows\\system32\\sc.exe\" start wuauserv\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=41F067C3A11B02FE39947F9EBA68AE5C7CB5BD1872A6009A4CD1506554A9ABA9\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:16.7601281Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:16.756\r\nProcessGuid: {2eebbeda-24a2-697a-8300-000000000700}\r\nProcessId: 6936\r\nImage: C:\\Windows\\System32\\wbem\\WmiPrvSE.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:12.5595455Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:12.545\r\nProcessGuid: {2eebbeda-2517-697a-a100-000000000700}\r\nProcessId: 1796\r\nImage: C:\\Windows\\System32\\wbem\\WMIADAP.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:08.8170379Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:08.809\r\nProcessGuid: {2eebbeda-2529-697a-a300-000000000700}\r\nProcessId: 5284\r\nImage: C:\\Windows\\System32\\backgroundTaskHost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:07.1300620Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:07.127\r\nProcessGuid: {2eebbeda-252b-697a-a600-000000000700}\r\nProcessId: 2728\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Runtime Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: RuntimeBroker.exe\r\nCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:07.0824466Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:07.075\r\nProcessGuid: {2eebbeda-252a-697a-a400-000000000700}\r\nProcessId: 6740\r\nImage: C:\\Windows\\System32\\backgroundTaskHost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:06.5706439Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:06.565\r\nProcessGuid: {2eebbeda-252a-697a-a500-000000000700}\r\nProcessId: 5168\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Runtime Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: RuntimeBroker.exe\r\nCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:06.2489684Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:06.244\r\nProcessGuid: {2eebbeda-252a-697a-a400-000000000700}\r\nProcessId: 6740\r\nImage: C:\\Windows\\System32\\backgroundTaskHost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Background Task Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: backgroundTaskHost.exe\r\nCommandLine: \"C:\\Windows\\system32\\BackgroundTaskHost.exe\" -ServerName:BackgroundTaskHost.WebAccountProvider\r\nCurrentDirectory: C:\\Windows\\SystemApps\\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=7077CBF56490C86FC74C0CC6C0379AB679F06A066E71906AD23458F664836449\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:03:05.5667122Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:03:05.560\r\nProcessGuid: {2eebbeda-2529-697a-a300-000000000700}\r\nProcessId: 5284\r\nImage: C:\\Windows\\System32\\backgroundTaskHost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Background Task Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: backgroundTaskHost.exe\r\nCommandLine: \"C:\\Windows\\system32\\backgroundTaskHost.exe\" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca\r\nCurrentDirectory: C:\\Windows\\SystemApps\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=7077CBF56490C86FC74C0CC6C0379AB679F06A066E71906AD23458F664836449\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:49.8795614Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:49.874\r\nProcessGuid: {2eebbeda-24b1-697a-8c00-000000000700}\r\nProcessId: 4348\r\nImage: C:\\Windows\\System32\\MoUsoCoreWorker.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:48.6150017Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:48.607\r\nProcessGuid: {2eebbeda-250d-697a-9e00-000000000700}\r\nProcessId: 4260\r\nImage: C:\\Windows\\System32\\notepad.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:48.1438657Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:48.141\r\nProcessGuid: {2eebbeda-250f-697a-a000-000000000700}\r\nProcessId: 6532\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:48.1373765Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:48.132\r\nProcessGuid: {2eebbeda-250f-697a-9f00-000000000700}\r\nProcessId: 6572\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:47.6142186Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:47.611\r\nProcessGuid: {2eebbeda-2517-697a-a200-000000000700}\r\nProcessId: 4244\r\nImage: C:\\Windows\\System32\\wbem\\WmiPrvSE.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: WMI Provider Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: Wmiprvse.exe\r\nCommandLine: C:\\Windows\\system32\\wbem\\wmiprvse.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=8BBDEAD7357AF7BF0EFE397F9FD7E0EC578755EB8BDBAA65AE4F28EF00087AD5\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:47.5564492Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:47.551\r\nProcessGuid: {2eebbeda-2517-697a-a100-000000000700}\r\nProcessId: 1796\r\nImage: C:\\Windows\\System32\\wbem\\WMIADAP.exe\r\nFileVersion: 10.0.19041.3758 (WinBuild.160101.0800)\r\nDescription: WMI Reverse Performance Adapter Maintenance Utility\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: wmicookr.dll\r\nCommandLine: wmiadap.exe /F /T /R\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=985B56B85220B4221B192644156401AFC82F77C35E2595B0BEFD4067CDED51B9\r\nParentProcessGuid: {2eebbeda-2426-697a-4000-000000000700}\r\nParentProcessId: 2776\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s Winmgmt\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:39.8919848Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:39.882\r\nProcessGuid: {2eebbeda-250a-697a-9d00-000000000700}\r\nProcessId: 916\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:39.8068219Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:39.805\r\nProcessGuid: {2eebbeda-250f-697a-a000-000000000700}\r\nProcessId: 6532\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Console Window Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: CONHOST.EXE\r\nCommandLine: \\??\\C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1\r\nCurrentDirectory: C:\\Windows\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87\r\nParentProcessGuid: {2eebbeda-250f-697a-9f00-000000000700}\r\nParentProcessId: 6572\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -c Start-Sleep 5 \r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:39.8037806Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:39.798\r\nProcessGuid: {2eebbeda-250f-697a-9f00-000000000700}\r\nProcessId: 6572\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows PowerShell\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: PowerShell.EXE\r\nCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -c Start-Sleep 5 \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=64DD55E1C2373DEED25C2776F553C632E58C45E56A0E4639DFD54EE97EAB9C19\r\nParentProcessGuid: {2eebbeda-250a-697a-9d00-000000000700}\r\nParentProcessId: 916\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Sandbox\\in\\fake_malware.ps1\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:37.5615071Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:37.557\r\nProcessGuid: {2eebbeda-250d-697a-9e00-000000000700}\r\nProcessId: 4260\r\nImage: C:\\Windows\\System32\\notepad.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Notepad\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: NOTEPAD.EXE\r\nCommandLine: \"C:\\Windows\\system32\\notepad.exe\" \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=BAEFAFD4C558E8EC66A5772B8AC8DC18D51789CCAF97BE5FC66CD63A71CAF75C\r\nParentProcessGuid: {2eebbeda-250a-697a-9d00-000000000700}\r\nParentProcessId: 916\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Sandbox\\in\\fake_malware.ps1\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:34.9837915Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:34.981\r\nProcessGuid: {2eebbeda-250a-697a-9d00-000000000700}\r\nProcessId: 916\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows PowerShell\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: PowerShell.EXE\r\nCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Sandbox\\in\\fake_malware.ps1\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=64DD55E1C2373DEED25C2776F553C632E58C45E56A0E4639DFD54EE97EAB9C19\r\nParentProcessGuid: {2eebbeda-2465-697a-7c00-000000000700}\r\nParentProcessId: 6292\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" \r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:33.7136735Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:33.708\r\nProcessGuid: {2eebbeda-2509-697a-9c00-000000000700}\r\nProcessId: 6552\r\nImage: C:\\Windows\\System32\\backgroundTaskHost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:33.1175412Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:33.098\r\nProcessGuid: {2eebbeda-2509-697a-9c00-000000000700}\r\nProcessId: 6552\r\nImage: C:\\Windows\\System32\\backgroundTaskHost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Background Task Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: backgroundTaskHost.exe\r\nCommandLine: \"C:\\Windows\\system32\\backgroundTaskHost.exe\" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca\r\nCurrentDirectory: C:\\Windows\\SystemApps\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=7077CBF56490C86FC74C0CC6C0379AB679F06A066E71906AD23458F664836449\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:16.5319593Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:16.524\r\nProcessGuid: {2eebbeda-24d9-697a-9a00-000000000700}\r\nProcessId: 1140\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:02:08.8951815Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:02:08.883\r\nProcessGuid: {2eebbeda-24b4-697a-9000-000000000700}\r\nProcessId: 5112\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:50.6912428Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:50.688\r\nProcessGuid: {2eebbeda-2424-697a-2700-000000000700}\r\nProcessId: 1676\r\nImage: C:\\Windows\\servicing\\TrustedInstaller.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:50.3679544Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:50.327\r\nProcessGuid: {2eebbeda-24d8-697a-9800-000000000700}\r\nProcessId: 6380\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:47.0190421Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:46.997\r\nProcessGuid: {2eebbeda-24da-697a-9b00-000000000700}\r\nProcessId: 1348\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:46.8857740Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:46.879\r\nProcessGuid: {2eebbeda-24da-697a-9b00-000000000700}\r\nProcessId: 1348\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:46.8580881Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:46.727\r\nProcessGuid: {2eebbeda-24d8-697a-9600-000000000700}\r\nProcessId: 3236\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:45.8397470Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:45.838\r\nProcessGuid: {2eebbeda-24d8-697a-9900-000000000700}\r\nProcessId: 6520\r\nImage: C:\\Windows\\System32\\wermgr.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:45.6152002Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:45.610\r\nProcessGuid: {2eebbeda-24d9-697a-9a00-000000000700}\r\nProcessId: 1140\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nFileVersion: 10.0.19041.3803 (WinBuild.160101.0800)\r\nDescription: Microsoft Software Protection Platform Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sppsvc.exe\r\nCommandLine: C:\\Windows\\system32\\sppsvc.exe\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E6C3D5BE4C32AC864A05B10FB82C2B735761CB3A3DFCDBF2A70F956086D33AD4\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.8537301Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.823\r\nProcessGuid: {2eebbeda-24d8-697a-9900-000000000700}\r\nProcessId: 6520\r\nImage: C:\\Windows\\System32\\wermgr.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows Problem Reporting\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: WerMgr\r\nCommandLine: \"C:\\Windows\\system32\\wermgr.exe\" -upload\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=4A135F60A5193F543D452C9D01E98546C44680E7BDF6C043E8837B1DFEAE3875\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.7254444Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.719\r\nProcessGuid: {2eebbeda-24d8-697a-9700-000000000700}\r\nProcessId: 7044\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.7088573Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.702\r\nProcessGuid: {2eebbeda-24d8-697a-9500-000000000700}\r\nProcessId: 6344\r\nImage: C:\\Windows\\System32\\sc.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.6016421Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.595\r\nProcessGuid: {2eebbeda-24d8-697a-9800-000000000700}\r\nProcessId: 6380\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k netsvcs -p -s PushToInstall\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.4373410Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.432\r\nProcessGuid: {2eebbeda-24d8-697a-9700-000000000700}\r\nProcessId: 7044\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Console Window Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: CONHOST.EXE\r\nCommandLine: \\??\\C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87\r\nParentProcessGuid: {2eebbeda-24d8-697a-9500-000000000700}\r\nParentProcessId: 6344\r\nParentImage: C:\\Windows\\System32\\sc.exe\r\nParentCommandLine: \"C:\\Windows\\system32\\sc.exe\" start pushtoinstall registration\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.3802052Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.370\r\nProcessGuid: {2eebbeda-24d8-697a-9500-000000000700}\r\nProcessId: 6344\r\nImage: C:\\Windows\\System32\\sc.exe\r\nFileVersion: 10.0.19041.1 (WinBuild.160101.0800)\r\nDescription: Service Control Manager Configuration Tool\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sc.exe\r\nCommandLine: \"C:\\Windows\\system32\\sc.exe\" start pushtoinstall registration\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=41F067C3A11B02FE39947F9EBA68AE5C7CB5BD1872A6009A4CD1506554A9ABA9\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:44.3768817Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:44.371\r\nProcessGuid: {2eebbeda-24d8-697a-9600-000000000700}\r\nProcessId: 3236\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:34.2274791Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:34.223\r\nProcessGuid: {2eebbeda-24ce-697a-9400-000000000700}\r\nProcessId: 1344\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Runtime Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: RuntimeBroker.exe\r\nCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:32.8387408Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:32.835\r\nProcessGuid: {2eebbeda-24cc-697a-9300-000000000700}\r\nProcessId: 2164\r\nImage: C:\\Program Files\\WindowsApps\\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\\WinStore.App.exe\r\nFileVersion: 11910.1002.5.0\r\nDescription: Store\r\nProduct: Windows Store\r\nCompany: Microsoft Corporation\r\nOriginalFileName: WinStore.App.exe\r\nCommandLine: \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\\WinStore.App.exe\" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca\r\nCurrentDirectory: C:\\Program Files\\WindowsApps\\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=FEC9B389DA89C183F8F1C5B96AE874E89D5284276F2CAE0F1465A34D69C993FD\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:32.8368338Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:32.832\r\nProcessGuid: {2eebbeda-24cc-697a-9200-000000000700}\r\nProcessId: 4764\r\nImage: C:\\Windows\\System32\\ApplicationFrameHost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Application Frame Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: ApplicationFrameHost.exe\r\nCommandLine: C:\\Windows\\system32\\ApplicationFrameHost.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=DA095D599C37096F262FA1124D95893625852E015E07909965F0DAFB2592B231\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:25.7410422Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:25.727\r\nProcessGuid: {2eebbeda-24a4-697a-8800-000000000700}\r\nProcessId: 5468\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:18.5395153Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:18.528\r\nProcessGuid: {2eebbeda-b0c1-697a-1d00-000000000700}\r\nProcessId: 1316\r\nImage: \u003cunknown process\u003e\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:12.5105306Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:12.482\r\nProcessGuid: {2eebbeda-24b0-697a-8b00-000000000700}\r\nProcessId: 5924\r\nImage: C:\\Windows\\System32\\notepad.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:10.3334150Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:10.290\r\nProcessGuid: {2eebbeda-24b3-697a-8f00-000000000700}\r\nProcessId: 972\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:10.2653079Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:10.260\r\nProcessGuid: {2eebbeda-24b3-697a-8e00-000000000700}\r\nProcessId: 6652\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:09.3673121Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:09.352\r\nProcessGuid: {2eebbeda-24b5-697a-9100-000000000700}\r\nProcessId: 6676\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:08.7161246Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:08.634\r\nProcessGuid: {2eebbeda-2424-697a-2e00-000000000700}\r\nProcessId: 1924\r\nImage: C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.6449_none_7e0d59887c8e1467\\TiWorker.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:08.5027804Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:08.469\r\nProcessGuid: {2eebbeda-24b4-697a-9000-000000000700}\r\nProcessId: 5112\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k wusvcs -p -s WaaSMedicSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:07.5563273Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:07.462\r\nProcessGuid: {2eebbeda-24aa-697a-8a00-000000000700}\r\nProcessId: 6288\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:07.0875496Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:07.075\r\nProcessGuid: {2eebbeda-24b3-697a-8f00-000000000700}\r\nProcessId: 972\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Console Window Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: CONHOST.EXE\r\nCommandLine: \\??\\C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1\r\nCurrentDirectory: C:\\Windows\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87\r\nParentProcessGuid: {2eebbeda-24b3-697a-8e00-000000000700}\r\nParentProcessId: 6652\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -c Start-Sleep 5 \r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:07.0669298Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:07.045\r\nProcessGuid: {2eebbeda-24b3-697a-8e00-000000000700}\r\nProcessId: 6652\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows PowerShell\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: PowerShell.EXE\r\nCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -c Start-Sleep 5 \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=64DD55E1C2373DEED25C2776F553C632E58C45E56A0E4639DFD54EE97EAB9C19\r\nParentProcessGuid: {2eebbeda-24aa-697a-8a00-000000000700}\r\nParentProcessId: 6288\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Sandbox\\in\\fake_malware.ps1\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:05.4025549Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:05.340\r\nProcessGuid: {2eebbeda-24b1-697a-8d00-000000000700}\r\nProcessId: 64\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:05.2922304Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:05.276\r\nProcessGuid: {2eebbeda-24b1-697a-8c00-000000000700}\r\nProcessId: 4348\r\nImage: C:\\Windows\\System32\\MoUsoCoreWorker.exe\r\nFileVersion: 10.0.19041.3803 (WinBuild.160101.0800)\r\nDescription: MoUSO Core Worker Process\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: MoUSOCoreWorker.exe\r\nCommandLine: C:\\Windows\\System32\\mousocoreworker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=AEEDB8980F13CE676D9EC597823ECB7B2675ABC43D41A4C5027451792B9ACB87\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:04.3151131Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:04.302\r\nProcessGuid: {2eebbeda-24b0-697a-8b00-000000000700}\r\nProcessId: 5924\r\nImage: C:\\Windows\\System32\\notepad.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Notepad\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: NOTEPAD.EXE\r\nCommandLine: \"C:\\Windows\\system32\\notepad.exe\" \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=BAEFAFD4C558E8EC66A5772B8AC8DC18D51789CCAF97BE5FC66CD63A71CAF75C\r\nParentProcessGuid: {2eebbeda-24aa-697a-8a00-000000000700}\r\nParentProcessId: 6288\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Sandbox\\in\\fake_malware.ps1\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:01:02.3324507Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:01:02.321\r\nProcessGuid: {2eebbeda-24a2-697a-8600-000000000700}\r\nProcessId: 7132\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:58.7044168Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:58.648\r\nProcessGuid: {2eebbeda-24aa-697a-8a00-000000000700}\r\nProcessId: 6288\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows PowerShell\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: PowerShell.EXE\r\nCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" -ExecutionPolicy Bypass -File C:\\Sandbox\\in\\fake_malware.ps1\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=64DD55E1C2373DEED25C2776F553C632E58C45E56A0E4639DFD54EE97EAB9C19\r\nParentProcessGuid: {2eebbeda-2465-697a-7c00-000000000700}\r\nParentProcessId: 6292\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" \r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:57.0811744Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:56.996\r\nProcessGuid: {2eebbeda-24a2-697a-8200-000000000700}\r\nProcessId: 6928\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:52.9532158Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:52.944\r\nProcessGuid: {2eebbeda-24a4-697a-8900-000000000700}\r\nProcessId: 6008\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s UsoSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:52.7044230Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:52.700\r\nProcessGuid: {2eebbeda-24a4-697a-8800-000000000700}\r\nProcessId: 5468\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nFileVersion: 10.0.19041.3803 (WinBuild.160101.0800)\r\nDescription: Microsoft Software Protection Platform Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sppsvc.exe\r\nCommandLine: C:\\Windows\\system32\\sppsvc.exe\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E6C3D5BE4C32AC864A05B10FB82C2B735761CB3A3DFCDBF2A70F956086D33AD4\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:52.3642768Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:52.349\r\nProcessGuid: {2eebbeda-24a4-697a-8700-000000000700}\r\nProcessId: 844\r\nImage: C:\\Windows\\System32\\SgrmBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: System Guard Runtime Monitor Broker Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SgrmBroker.exe\r\nCommandLine: C:\\Windows\\system32\\SgrmBroker.exe\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=08E2C7D1C60ED2B6D9893341157B073D72776D471E68E4E00B63C4D0C7DD43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:51.4551659Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:51.446\r\nProcessGuid: {2eebbeda-24a2-697a-8500-000000000700}\r\nProcessId: 7092\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:50.8410013Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:50.822\r\nProcessGuid: {2eebbeda-24a1-697a-8100-000000000700}\r\nProcessId: 6880\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:50.8409549Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:50.812\r\nProcessGuid: {2eebbeda-24a2-697a-8600-000000000700}\r\nProcessId: 7132\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k NetworkService -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:50.7038390Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:50.699\r\nProcessGuid: {2eebbeda-24a2-697a-8500-000000000700}\r\nProcessId: 7092\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nFileVersion: 1.3.147.37\r\nDescription: Microsoft Edge Update\r\nProduct: Microsoft Edge Update\r\nCompany: Microsoft Corporation\r\nOriginalFileName: msedgeupdate.dll\r\nCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /c\r\nCurrentDirectory: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.173.55\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=3096D8E82917A9B73F322F4B1743E52E9B0C8B3C5933A957E73E29D6973CDD5B\r\nParentProcessGuid: {2eebbeda-24a1-697a-8100-000000000700}\r\nParentProcessId: 6880\r\nParentImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nParentCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /svc\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:50.5054294Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:50.487\r\nProcessGuid: {2eebbeda-24a2-697a-8400-000000000700}\r\nProcessId: 7032\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s StorSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:50.0941629Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:50.081\r\nProcessGuid: {2eebbeda-24a2-697a-8300-000000000700}\r\nProcessId: 6936\r\nImage: C:\\Windows\\System32\\wbem\\WmiPrvSE.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: WMI Provider Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: Wmiprvse.exe\r\nCommandLine: C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=8BBDEAD7357AF7BF0EFE397F9FD7E0EC578755EB8BDBAA65AE4F28EF00087AD5\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:50.0934135Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:50.054\r\nProcessGuid: {2eebbeda-24a2-697a-8200-000000000700}\r\nProcessId: 6928\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: COM Surrogate\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: dllhost.exe\r\nCommandLine: C:\\Windows\\system32\\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=0309834D40475CCD5A88C48F7FF5EC62E5C6798900357DD83665C3D0345124E0\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:49.9242377Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:49.907\r\nProcessGuid: {2eebbeda-24a1-697a-8100-000000000700}\r\nProcessId: 6880\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nFileVersion: 1.3.147.37\r\nDescription: Microsoft Edge Update\r\nProduct: Microsoft Edge Update\r\nCompany: Microsoft Corporation\r\nOriginalFileName: msedgeupdate.dll\r\nCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /svc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=3096D8E82917A9B73F322F4B1743E52E9B0C8B3C5933A957E73E29D6973CDD5B\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:49.5699427Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:49.556\r\nProcessGuid: {2eebbeda-2459-697a-6d00-000000000700}\r\nProcessId: 5940\r\nImage: C:\\Windows\\System32\\wbem\\WmiPrvSE.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:47.8965390Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:47.847\r\nProcessGuid: {2eebbeda-249f-697a-8000-000000000700}\r\nProcessId: 6824\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k NetworkService -p -s DoSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:27.1466043Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:27.134\r\nProcessGuid: {2eebbeda-248a-697a-7f00-000000000700}\r\nProcessId: 6736\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:26.8175199Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:26.810\r\nProcessGuid: {2eebbeda-248a-697a-7f00-000000000700}\r\nProcessId: 6736\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe $(Arg0)\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:15.3016773Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:15.297\r\nProcessGuid: {2eebbeda-244f-697a-6000-000000000700}\r\nProcessId: 4916\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T15:00:15.2902351Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 15:00:15.276\r\nProcessGuid: {2eebbeda-2450-697a-6200-000000000700}\r\nProcessId: 5084\r\nImage: C:\\Windows\\System32\\SppExtComObj.Exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:59.0244809Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:59.009\r\nProcessGuid: {2eebbeda-2447-697a-5600-000000000700}\r\nProcessId: 1416\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:52.6614875Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:52.619\r\nProcessGuid: {2eebbeda-2465-697a-7b00-000000000700}\r\nProcessId: 6284\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:52.1934094Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:52.167\r\nProcessGuid: {2eebbeda-2467-697a-7e00-000000000700}\r\nProcessId: 6396\r\nImage: C:\\Windows\\System32\\wlrmdr.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:52.0811583Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:51.631\r\nProcessGuid: {2eebbeda-2467-697a-7e00-000000000700}\r\nProcessId: 6396\r\nImage: C:\\Windows\\System32\\wlrmdr.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows logon reminder\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: WLRMNDR.EXE\r\nCommandLine:  -c -s 0 -f 0 -t Empty -m Empty -a 0 -u Empty\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=2F89115E1081C91BABAF2961CEF0BCF9C8F4EE803D3BE6E88ACE23B383FE7324\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 620\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:50.4528506Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:50.421\r\nProcessGuid: {2eebbeda-2466-697a-7d00-000000000700}\r\nProcessId: 6328\r\nImage: C:\\Windows\\System32\\conhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Console Window Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: CONHOST.EXE\r\nCommandLine: \\??\\C:\\Windows\\system32\\conhost.exe 0xffffffff -ForceV1\r\nCurrentDirectory: C:\\Windows\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=C43CF46192DA061DD6169E55AAC4D2D08A6C33C039A7DAC0D88AA897661CBC87\r\nParentProcessGuid: {2eebbeda-2465-697a-7c00-000000000700}\r\nParentProcessId: 6292\r\nParentImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nParentCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" \r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:49.8922352Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:49.842\r\nProcessGuid: {2eebbeda-2465-697a-7c00-000000000700}\r\nProcessId: 6292\r\nImage: C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows PowerShell\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: PowerShell.EXE\r\nCommandLine: \"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=64DD55E1C2373DEED25C2776F553C632E58C45E56A0E4639DFD54EE97EAB9C19\r\nParentProcessGuid: {2eebbeda-245d-697a-7200-000000000700}\r\nParentProcessId: 4060\r\nParentImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nParentCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:49.8419897Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:49.822\r\nProcessGuid: {2eebbeda-2465-697a-7b00-000000000700}\r\nProcessId: 6284\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe SyncFromCloud\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:49.7431511Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:49.732\r\nProcessGuid: {2eebbeda-2462-697a-7700-000000000700}\r\nProcessId: 1288\r\nImage: C:\\Windows\\System32\\consent.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:49.5925867Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:49.584\r\nProcessGuid: {2eebbeda-245b-697a-6e00-000000000700}\r\nProcessId: 6020\r\nImage: C:\\Windows\\System32\\mobsync.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:49.2772756Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:49.276\r\nProcessGuid: {2eebbeda-2449-697a-5c00-000000000700}\r\nProcessId: 4420\r\nImage: C:\\Windows\\System32\\userinit.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:47.8013802Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:47.764\r\nProcessGuid: {2eebbeda-2463-697a-7a00-000000000700}\r\nProcessId: 2952\r\nImage: C:\\Users\\Sandbox\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\r\nFileVersion: 21.220.1024.0005\r\nDescription: Microsoft OneDrive\r\nProduct: Microsoft OneDrive\r\nCompany: Microsoft Corporation\r\nOriginalFileName: OneDrive.exe\r\nCommandLine: \"C:\\Users\\Sandbox\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=5D8273BF98397E4C5053F8F154E5F838C7E8A798B125FCAD33CAB16E2515B665\r\nParentProcessGuid: {2eebbeda-2449-697a-5d00-000000000700}\r\nParentProcessId: 4448\r\nParentImage: C:\\Windows\\explorer.exe\r\nParentCommandLine: C:\\Windows\\Explorer.EXE\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:47.5104272Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:47.435\r\nProcessGuid: {2eebbeda-2463-697a-7900-000000000700}\r\nProcessId: 2544\r\nImage: C:\\Windows\\System32\\audiodg.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows Audio Device Graph Isolation \r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: audioadg.exe\r\nCommandLine: C:\\Windows\\system32\\AUDIODG.EXE 0x4f0 0x4c8\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=405D4C2EF7419BF265EDEF0FE86C8BA1ED634B10DCCAAA0A6C6B953645598619\r\nParentProcessGuid: {2eebbeda-2424-697a-3100-000000000700}\r\nParentProcessId: 2040\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p\r\nParentUser: NT AUTHORITY\\LOCAL SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:47.1944146Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:47.172\r\nProcessGuid: {2eebbeda-2463-697a-7800-000000000700}\r\nProcessId: 2224\r\nImage: C:\\Windows\\System32\\VBoxTray.exe\r\nFileVersion: 7.1.6.167084\r\nDescription: VirtualBox Guest Additions Tray Application\r\nProduct: Oracle VirtualBox Guest Additions\r\nCompany: Oracle and/or its affiliates\r\nOriginalFileName: -\r\nCommandLine: \"C:\\Windows\\System32\\VBoxTray.exe\" \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=B4768B5B7FE4F716C057E92EDA2C3582F19DD88CB6808156C31658BACC18D926\r\nParentProcessGuid: {2eebbeda-2449-697a-5d00-000000000700}\r\nParentProcessId: 4448\r\nParentImage: C:\\Windows\\explorer.exe\r\nParentCommandLine: C:\\Windows\\Explorer.EXE\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:46.9553390Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:46.944\r\nProcessGuid: {2eebbeda-2462-697a-7700-000000000700}\r\nProcessId: 1288\r\nImage: C:\\Windows\\System32\\consent.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Consent UI for administrative applications\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: consent.exe\r\nCommandLine: consent.exe 1376 468 0000024D47433ED0\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 1\r\nIntegrityLevel: System\r\nHashes: SHA256=BC1AC9C190C716778D80EF36AAE620F2B7B334D3776B628907581301ED97128C\r\nParentProcessGuid: {2eebbeda-2462-697a-7400-000000000700}\r\nParentProcessId: 1376\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s Appinfo\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:46.8080209Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:46.750\r\nProcessGuid: {2eebbeda-2462-697a-7600-000000000700}\r\nProcessId: 1884\r\nImage: C:\\Windows\\System32\\SecurityHealthService.exe\r\nFileVersion: 4.18.1907.16384 (WinBuild.160101.0800)\r\nDescription: Windows Security Health Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SecurityHealthService.exe\r\nCommandLine: C:\\Windows\\system32\\SecurityHealthService.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=232326A368B0D5A47C6170FD6044B07A3191E5887ABEA6312FA7E77C2FD85058\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:46.6844574Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:46.669\r\nProcessGuid: {2eebbeda-245c-697a-7000-000000000700}\r\nProcessId: 5468\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:46.3696553Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:46.314\r\nProcessGuid: {2eebbeda-2462-697a-7500-000000000700}\r\nProcessId: 1468\r\nImage: C:\\Windows\\System32\\SecurityHealthSystray.exe\r\nFileVersion: 10.0.19041.1 (WinBuild.160101.0800)\r\nDescription: Windows Security notification icon\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SecurityHealthSystray.exe\r\nCommandLine: \"C:\\Windows\\System32\\SecurityHealthSystray.exe\" \r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=570B37A7A3FFDAFCCECCC33CBC1968FEB857B73CA3CB4DFFEDC2E67E9ABD0878\r\nParentProcessGuid: {2eebbeda-2449-697a-5d00-000000000700}\r\nParentProcessId: 4448\r\nParentImage: C:\\Windows\\explorer.exe\r\nParentCommandLine: C:\\Windows\\Explorer.EXE\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:46.2688159Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:46.223\r\nProcessGuid: {2eebbeda-2462-697a-7400-000000000700}\r\nProcessId: 1376\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s Appinfo\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:45.7161999Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:45.668\r\nProcessGuid: {2eebbeda-2461-697a-7300-000000000700}\r\nProcessId: 696\r\nImage: C:\\Windows\\System32\\smartscreen.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows Defender SmartScreen\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: smartscreen.exe\r\nCommandLine: C:\\Windows\\System32\\smartscreen.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=AB8D788E0116C9216FCA7E9F40D014E7AE2FE64123FCC81FA98AB2BCC7946B3A\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:45.2609570Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:45.248\r\nProcessGuid: {2eebbeda-2451-697a-6300-000000000700}\r\nProcessId: 4732\r\nImage: C:\\Windows\\System32\\slui.exe\r\nUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:44.9817256Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:44.968\r\nProcessGuid: {2eebbeda-2451-697a-6400-000000000700}\r\nProcessId: 4820\r\nImage: C:\\Windows\\System32\\slui.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:41.2497868Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:41.244\r\nProcessGuid: {2eebbeda-245d-697a-7200-000000000700}\r\nProcessId: 4060\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Runtime Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: RuntimeBroker.exe\r\nCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:41.2178328Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:41.209\r\nProcessGuid: {2eebbeda-245d-697a-7100-000000000700}\r\nProcessId: 4676\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: COM Surrogate\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: dllhost.exe\r\nCommandLine: C:\\Windows\\system32\\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=0309834D40475CCD5A88C48F7FF5EC62E5C6798900357DD83665C3D0345124E0\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:40.9401150Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:40.788\r\nProcessGuid: {2eebbeda-245c-697a-7000-000000000700}\r\nProcessId: 5468\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: COM Surrogate\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: dllhost.exe\r\nCommandLine: C:\\Windows\\system32\\DllHost.exe /Processid:{7966B4D8-4FDC-4126-A10B-39A3209AD251}\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=0309834D40475CCD5A88C48F7FF5EC62E5C6798900357DD83665C3D0345124E0\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:39.8139394Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:39.789\r\nProcessGuid: {2eebbeda-245b-697a-6f00-000000000700}\r\nProcessId: 4164\r\nImage: C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe\r\nFileVersion: 123.26505.0.0\r\nDescription: -\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: TextInputHost.exe\r\nCommandLine: \"C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe\" -ServerName:InputApp.AppXjd5de1g66v206tj52m9d0dtpppx4cgpn.mca\r\nCurrentDirectory: C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=B58A8B20A3BBE5E4833DE4EEE8BA46F66228EBEB7C6F79DAD9221191AEDAEBD0\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:39.1724122Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:39.156\r\nProcessGuid: {2eebbeda-245b-697a-6e00-000000000700}\r\nProcessId: 6020\r\nImage: C:\\Windows\\System32\\mobsync.exe\r\nFileVersion: 10.0.19041.1 (WinBuild.160101.0800)\r\nDescription: Microsoft Sync Center\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: mobsync.exe\r\nCommandLine: C:\\Windows\\System32\\mobsync.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=6E83030A6A3E447ACB1D38CC07035C1FD5BD2C9E136A57CE99F3AC1BE45A7D3D\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:37.3114487Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:37.293\r\nProcessGuid: {2eebbeda-2459-697a-6d00-000000000700}\r\nProcessId: 5940\r\nImage: C:\\Windows\\System32\\wbem\\WmiPrvSE.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: WMI Provider Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: Wmiprvse.exe\r\nCommandLine: C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=8BBDEAD7357AF7BF0EFE397F9FD7E0EC578755EB8BDBAA65AE4F28EF00087AD5\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:35.4486612Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:35.419\r\nProcessGuid: {2eebbeda-b0c0-697a-1200-000000000700}\r\nProcessId: 8\r\nImage: \u003cunknown process\u003e\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:35.4459204Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:35.408\r\nProcessGuid: {2eebbeda-2457-697a-6c00-000000000700}\r\nProcessId: 5848\r\nImage: C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\\SkypeBackgroundHost.exe\r\nFileVersion: 8.53.0.77\r\nDescription: Microsoft Skype\r\nProduct: Microsoft® Skype\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SkypeBackgroundHost.exe\r\nCommandLine: \"C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\\SkypeBackgroundHost.exe\" -ServerName:SkypeBackgroundHost\r\nCurrentDirectory: C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=076EA6F96AEA911A0175BE091D4028F71BC4570D4AAC20E2681C35CE992A66D7\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:34.4311611Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:34.415\r\nProcessGuid: {2eebbeda-244d-697a-5f00-000000000700}\r\nProcessId: 4676\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:32.8706766Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:32.832\r\nProcessGuid: {2eebbeda-2454-697a-6b00-000000000700}\r\nProcessId: 5644\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s wuauserv\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:32.3183559Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:32.277\r\nProcessGuid: {2eebbeda-2454-697a-6a00-000000000700}\r\nProcessId: 5568\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k appmodel -p -s camsvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:31.5090251Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:31.470\r\nProcessGuid: {2eebbeda-2453-697a-6900-000000000700}\r\nProcessId: 5396\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Runtime Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: RuntimeBroker.exe\r\nCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:30.9928880Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:30.976\r\nProcessGuid: {2eebbeda-2447-697a-5300-000000000700}\r\nProcessId: 1948\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:30.9870434Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:30.978\r\nProcessGuid: {2eebbeda-2452-697a-6800-000000000700}\r\nProcessId: 5216\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k wsappx -p -s ClipSVC\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:30.8029195Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:30.729\r\nProcessGuid: {2eebbeda-2452-697a-6700-000000000700}\r\nProcessId: 5196\r\nImage: C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\r\nFileVersion: 10.0.19041.3758 (WinBuild.160101.0800)\r\nDescription: Search application\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SearchApp.exe\r\nCommandLine: \"C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca\r\nCurrentDirectory: C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=3AF79459A9198845BE451DD7EE24770B40C6690C120889F4FF59F8625E94D699\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:30.4821972Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:30.477\r\nProcessGuid: {2eebbeda-2452-697a-6600-000000000700}\r\nProcessId: 4876\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalService -p -s LicenseManager\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:30.0276471Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:30.015\r\nProcessGuid: {2eebbeda-2452-697a-6500-000000000700}\r\nProcessId: 4232\r\nImage: C:\\Windows\\System32\\RuntimeBroker.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Runtime Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: RuntimeBroker.exe\r\nCommandLine: C:\\Windows\\System32\\RuntimeBroker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=973CC7E05CA0881490D99FFF2213445583117AA563459FB7049B5A447CB5A65C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:29.8467708Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:29.834\r\nProcessGuid: {2eebbeda-2451-697a-6400-000000000700}\r\nProcessId: 4820\r\nImage: C:\\Windows\\System32\\slui.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows Activation Client\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: slui.exe\r\nCommandLine: C:\\Windows\\System32\\slui.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=E8AEDE3B2E70E058FF15091FFC5C9694A0B5AB0A83D9E1EE31FF3A1DB2D1DB21\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:29.5972365Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:29.538\r\nProcessGuid: {2eebbeda-2451-697a-6300-000000000700}\r\nProcessId: 4732\r\nImage: C:\\Windows\\System32\\slui.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows Activation Client\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: slui.exe\r\nCommandLine: \"C:\\Windows\\System32\\SLUI.exe\" RuleId=31e71c49-8da7-4a2f-ad92-45d98a1c79ba;Action=AutoActivate;AppId=55c92734-d682-4d71-983e-d6ec3f16059f;SkuId=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c;NotificationInterval=1440;Trigger=UserLogon;SessionId=1\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E8AEDE3B2E70E058FF15091FFC5C9694A0B5AB0A83D9E1EE31FF3A1DB2D1DB21\r\nParentProcessGuid: {2eebbeda-2450-697a-6200-000000000700}\r\nParentProcessId: 5084\r\nParentImage: C:\\Windows\\System32\\SppExtComObj.Exe\r\nParentCommandLine: C:\\Windows\\system32\\SppExtComObj.exe -Embedding\r\nParentUser: NT AUTHORITY\\NETWORK SERVICE"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:28.8031417Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:28.785\r\nProcessGuid: {2eebbeda-2450-697a-6200-000000000700}\r\nProcessId: 5084\r\nImage: C:\\Windows\\System32\\SppExtComObj.Exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: KMS Connection Broker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SppExtComObj.exe\r\nCommandLine: C:\\Windows\\system32\\SppExtComObj.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=D9FBA5E558ACA72C58494B6257E0DE426B080C48454D3568ADBB21FBBA945DF3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:28.3716294Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:28.344\r\nProcessGuid: {2eebbeda-2450-697a-6100-000000000700}\r\nProcessId: 5028\r\nImage: C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe\r\nFileVersion: -\r\nDescription: -\r\nProduct: -\r\nCompany: -\r\nOriginalFileName: -\r\nCommandLine: \"C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe\" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca\r\nCurrentDirectory: C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: AppContainer\r\nHashes: SHA256=8A664827BA77B78B5F5ACE6AEA2326740281BCC9C1553CF681F885745266EF59\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:27.3205399Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:27.280\r\nProcessGuid: {2eebbeda-244f-697a-6000-000000000700}\r\nProcessId: 4916\r\nImage: C:\\Windows\\System32\\sppsvc.exe\r\nFileVersion: 10.0.19041.3803 (WinBuild.160101.0800)\r\nDescription: Microsoft Software Protection Platform Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sppsvc.exe\r\nCommandLine: C:\\Windows\\system32\\sppsvc.exe\r\nCurrentDirectory: C:\\Windows\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E6C3D5BE4C32AC864A05B10FB82C2B735761CB3A3DFCDBF2A70F956086D33AD4\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:26.9507948Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:26.946\r\nProcessGuid: {2eebbeda-2447-697a-5400-000000000700}\r\nProcessId: 848\r\nImage: C:\\Program Files\\RUXIM\\PLUGScheduler.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:26.8916561Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:26.869\r\nProcessGuid: {2eebbeda-2447-697a-5800-000000000700}\r\nProcessId: 2116\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:25.1039651Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:25.062\r\nProcessGuid: {2eebbeda-244d-697a-5f00-000000000700}\r\nProcessId: 4676\r\nImage: C:\\Windows\\System32\\dllhost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: COM Surrogate\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: dllhost.exe\r\nCommandLine: C:\\Windows\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=0309834D40475CCD5A88C48F7FF5EC62E5C6798900357DD83665C3D0345124E0\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:24.6949854Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:24.682\r\nProcessGuid: {2eebbeda-244c-697a-5e00-000000000700}\r\nProcessId: 4624\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:21.9216092Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:21.867\r\nProcessGuid: {2eebbeda-2449-697a-5d00-000000000700}\r\nProcessId: 4448\r\nImage: C:\\Windows\\explorer.exe\r\nFileVersion: 10.0.19041.3758 (WinBuild.160101.0800)\r\nDescription: Windows Explorer\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: EXPLORER.EXE\r\nCommandLine: C:\\Windows\\Explorer.EXE\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=81D8EA67D17BF48524C82D576F8DDADDB37A218D0566FD7F0AAB8B8FBD03F193\r\nParentProcessGuid: {2eebbeda-2449-697a-5c00-000000000700}\r\nParentProcessId: 4420\r\nParentImage: C:\\Windows\\System32\\userinit.exe\r\nParentCommandLine: C:\\Windows\\system32\\userinit.exe\r\nParentUser: DESKTOP-RAJ4K1O\\Sandbox"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:21.5704375Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:21.498\r\nProcessGuid: {2eebbeda-2449-697a-5c00-000000000700}\r\nProcessId: 4420\r\nImage: C:\\Windows\\System32\\userinit.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Userinit Logon Application\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: USERINIT.EXE\r\nCommandLine: C:\\Windows\\system32\\userinit.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=33D0F627A62DED9A4CF0D6E2A59AB3777BBECF7D794373B8052D9CC9253A4C74\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 620\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:21.0972285Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:20.945\r\nProcessGuid: {2eebbeda-2448-697a-5b00-000000000700}\r\nProcessId: 4364\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalService -p -s CDPSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:20.0122991Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.944\r\nProcessGuid: {2eebbeda-2447-697a-5a00-000000000700}\r\nProcessId: 4272\r\nImage: C:\\Windows\\System32\\ctfmon.exe\r\nFileVersion: 10.0.19041.1 (WinBuild.160101.0800)\r\nDescription: CTF Loader\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: CTFMON.EXE\r\nCommandLine: \"ctfmon.exe\"\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=484FED5F039F429ED933931BA607B7EFDA7D1A343D79CFAB60910E1843147012\r\nParentProcessGuid: {2eebbeda-2447-697a-5900-000000000700}\r\nParentProcessId: 4188\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.6870456Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.656\r\nProcessGuid: {2eebbeda-2447-697a-5900-000000000700}\r\nProcessId: 4188\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.4849462Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.451\r\nProcessGuid: {2eebbeda-2447-697a-5800-000000000700}\r\nProcessId: 2116\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-10d7-040000000000}\r\nLogonId: 0x4D710\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.3772359Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.361\r\nProcessGuid: {2eebbeda-2447-697a-5700-000000000700}\r\nProcessId: 2980\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s TokenBroker\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.3763330Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.337\r\nProcessGuid: {2eebbeda-2447-697a-5600-000000000700}\r\nProcessId: 1416\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nFileVersion: 1.3.147.37\r\nDescription: Microsoft Edge Update\r\nProduct: Microsoft Edge Update\r\nCompany: Microsoft Corporation\r\nOriginalFileName: msedgeupdate.dll\r\nCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /c\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=3096D8E82917A9B73F322F4B1743E52E9B0C8B3C5933A957E73E29D6973CDD5B\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.3003388Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.295\r\nProcessGuid: {2eebbeda-2447-697a-5500-000000000700}\r\nProcessId: 968\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.2992377Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.280\r\nProcessGuid: {2eebbeda-2447-697a-5400-000000000700}\r\nProcessId: 848\r\nImage: C:\\Program Files\\RUXIM\\PLUGScheduler.exe\r\nFileVersion: 10.0.19041.4466 (WinBuild.160101.0800)\r\nDescription: Windows Update LifeCycle Component Scheduler\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: PLUGScheduler.exe\r\nCommandLine: \"C:\\Program Files\\RUXIM\\PLUGscheduler.exe\"\r\nCurrentDirectory: C:\\Program Files\\RUXIM\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=9F978524CD6320FA9682FEA3AFB9C7DCD94A39C96E22F679FBA395412A31C1C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.2986827Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.266\r\nProcessGuid: {2eebbeda-2447-697a-5300-000000000700}\r\nProcessId: 1948\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe USER\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.1510944Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:19.137\r\nProcessGuid: {2eebbeda-2447-697a-5200-000000000700}\r\nProcessId: 3660\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup -s WpnUserService\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.0172721Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:18.997\r\nProcessGuid: {2eebbeda-2446-697a-5100-000000000700}\r\nProcessId: 4008\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup -s CDPUserSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:19.0083577Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:18.952\r\nProcessGuid: {2eebbeda-2446-697a-5000-000000000700}\r\nProcessId: 2536\r\nImage: C:\\Windows\\System32\\sihost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Shell Infrastructure Host\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: sihost.exe\r\nCommandLine: sihost.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-RAJ4K1O\\Sandbox\r\nLogonGuid: {2eebbeda-2445-697a-43d7-040000000000}\r\nLogonId: 0x4D743\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: SHA256=E2F3385314D125535AA6F24C8498C4C1878BEAC86977313B0C3B2CDF7E8948EF\r\nParentProcessGuid: {2eebbeda-2424-697a-3000-000000000700}\r\nParentProcessId: 2028\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s UserManager\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:02.3404326Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:02.335\r\nProcessGuid: {2eebbeda-2424-697a-2f00-000000000700}\r\nProcessId: 1948\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:59:00.6563037Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:59:00.539\r\nProcessGuid: {2eebbeda-2434-697a-4f00-000000000700}\r\nProcessId: 1368\r\nImage: C:\\Program Files\\Windows Defender\\NisSrv.exe\r\nFileVersion: 4.18.1909.6 (WinBuild.160101.0800)\r\nDescription: Microsoft Network Realtime Inspection Service\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: NisSrv.exe\r\nCommandLine: \"C:\\Program Files\\Windows Defender\\NisSrv.exe\"\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E0A5B312DC2A130E2CA129FEB36F4A7FFD189D1B079A5A96E56A4B81D07109E3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:58.0698306Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:58.062\r\nProcessGuid: {2eebbeda-2432-697a-4e00-000000000700}\r\nProcessId: 4044\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:57.6466729Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:57.633\r\nProcessGuid: {2eebbeda-2426-697a-3b00-000000000700}\r\nProcessId: 2536\r\nImage: C:\\Windows\\System32\\dxgiadaptercache.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:57.3266570Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:57.320\r\nProcessGuid: {2eebbeda-2426-697a-3c00-000000000700}\r\nProcessId: 2692\r\nImage: C:\\Windows\\System32\\ClipRenew.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:56.1831239Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:56.128\r\nProcessGuid: {2eebbeda-2430-697a-4d00-000000000700}\r\nProcessId: 3916\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s wlidsvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.1176734Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:49.049\r\nProcessGuid: {2eebbeda-2429-697a-4c00-000000000700}\r\nProcessId: 3496\r\nImage: C:\\Windows\\System32\\SearchIndexer.exe\r\nFileVersion: 7.0.19041.3758 (WinBuild.160101.0800)\r\nDescription: Microsoft Windows Search Indexer\r\nProduct: Windows® Search\r\nCompany: Microsoft Corporation\r\nOriginalFileName: SearchIndexer.exe\r\nCommandLine: C:\\Windows\\system32\\SearchIndexer.exe /Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=3E7191386F01E3220D6E8ED16FDD2E059F71854363F9C330F601494CACEFDA1D\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.1167892Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:48.881\r\nProcessGuid: {2eebbeda-2428-697a-4b00-000000000700}\r\nProcessId: 3448\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k wsappx -p -s AppXSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.1161644Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:48.833\r\nProcessGuid: {2eebbeda-2428-697a-4a00-000000000700}\r\nProcessId: 3436\r\nImage: C:\\Windows\\System32\\wbem\\unsecapp.exe\r\nFileVersion: 10.0.19041.3758 (WinBuild.160101.0800)\r\nDescription: Sink to receive asynchronous callbacks for WMI client application\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: unsecapp.dll\r\nCommandLine: C:\\Windows\\system32\\wbem\\unsecapp.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=E6AA98ECFBA5A27F6946A5C4169854A1791888C4AEE97578BA56563A6BF83C0C\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.1148807Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.563\r\nProcessGuid: {2eebbeda-2427-697a-4900-000000000700}\r\nProcessId: 3156\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k netsvcs\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.1108617Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.383\r\nProcessGuid: {2eebbeda-2427-697a-4800-000000000700}\r\nProcessId: 2208\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k NetSvcs -p -s iphlpsvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0757992Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.321\r\nProcessGuid: {2eebbeda-2427-697a-4700-000000000700}\r\nProcessId: 3012\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalService -p -s WdiServiceHost\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0734285Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.179\r\nProcessGuid: {2eebbeda-2427-697a-4600-000000000700}\r\nProcessId: 2924\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s WpnService\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0711970Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.165\r\nProcessGuid: {2eebbeda-2427-697a-4500-000000000700}\r\nProcessId: 2908\r\nImage: C:\\Program Files\\Windows Defender\\MsMpEng.exe\r\nFileVersion: 4.18.1909.6 (WinBuild.160101.0800)\r\nDescription: Antimalware Service Executable\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: MsMpEng.exe\r\nCommandLine: \"C:\\Program Files\\Windows Defender\\MsMpEng.exe\"\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=2CCB6063389F3512BE2EF169E236C7474380C542ABD82B4B6BCAA8DEE2E3DCBE\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0674529Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.107\r\nProcessGuid: {2eebbeda-2427-697a-4400-000000000700}\r\nProcessId: 2876\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0660293Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.076\r\nProcessGuid: {2eebbeda-2427-697a-4300-000000000700}\r\nProcessId: 2856\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s LanmanServer\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0603971Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.049\r\nProcessGuid: {2eebbeda-2427-697a-4200-000000000700}\r\nProcessId: 2840\r\nImage: C:\\Windows\\Sysmon64.exe\r\nFileVersion: 15.15\r\nDescription: System activity monitor\r\nProduct: Sysinternals Sysmon\r\nCompany: Sysinternals - www.sysinternals.com\r\nOriginalFileName: -\r\nCommandLine: C:\\Windows\\Sysmon64.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=D9C8FDFDCE510FD9922DA3A1084B6AC4476C1407D1D8BBB67FC0A61988552771\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0588874Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:47.005\r\nProcessGuid: {2eebbeda-2427-697a-4100-000000000700}\r\nProcessId: 2824\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalService -p -s SstpSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0523665Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.911\r\nProcessGuid: {2eebbeda-2426-697a-4000-000000000700}\r\nProcessId: 2776\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s Winmgmt\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0509570Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.894\r\nProcessGuid: {2eebbeda-2426-697a-3f00-000000000700}\r\nProcessId: 2760\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p -s DPS\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0493368Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.884\r\nProcessGuid: {2eebbeda-2426-697a-3e00-000000000700}\r\nProcessId: 2748\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k utcsvc -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0477484Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.873\r\nProcessGuid: {2eebbeda-2426-697a-3d00-000000000700}\r\nProcessId: 2740\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k NetworkService -p -s CryptSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0442379Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.756\r\nProcessGuid: {2eebbeda-2426-697a-3c00-000000000700}\r\nProcessId: 2692\r\nImage: C:\\Windows\\System32\\ClipRenew.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Acquire License From Store\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: ClipRenew.exe\r\nCommandLine: \"C:\\Windows\\system32\\ClipRenew.exe\" -e\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=CB9C8212EB7F9E000C326587A66E6904663E1862702F31B7CCEB40024F7AB2B0\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0388406Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.224\r\nProcessGuid: {2eebbeda-2426-697a-3b00-000000000700}\r\nProcessId: 2536\r\nImage: C:\\Windows\\System32\\dxgiadaptercache.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: DXGI Adapter Cache\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: DXGIAdapterCache.exe\r\nCommandLine: \"C:\\Windows\\system32\\dxgiadaptercache.exe\"\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=3609BD5B679F18F2F47A28F29BBBE98ECC597D02CE74262948E7C8C1F31544C7\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0368306Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.175\r\nProcessGuid: {2eebbeda-2426-697a-3a00-000000000700}\r\nProcessId: 2496\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k NetworkService -p -s LanmanWorkstation\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0326612Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:46.094\r\nProcessGuid: {2eebbeda-2426-697a-3900-000000000700}\r\nProcessId: 2448\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0292709Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:45.848\r\nProcessGuid: {2eebbeda-2425-697a-3800-000000000700}\r\nProcessId: 2380\r\nImage: C:\\Windows\\System32\\spoolsv.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Spooler SubSystem App\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: spoolsv.exe\r\nCommandLine: C:\\Windows\\System32\\spoolsv.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=10CD8F6DBE6F716F757CB2544F1634879B5CF6AE9152AF6CCACDFEE393A29B7A\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0279066Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:45.693\r\nProcessGuid: {2eebbeda-2425-697a-3700-000000000700}\r\nProcessId: 2324\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0222344Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:45.371\r\nProcessGuid: {2eebbeda-2425-697a-3600-000000000700}\r\nProcessId: 2216\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k appmodel -p -s StateRepository\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0203646Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:45.150\r\nProcessGuid: {2eebbeda-2425-697a-3500-000000000700}\r\nProcessId: 2168\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k netsvcs -p -s ShellHWDetection\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0198694Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.768\r\nProcessGuid: {2eebbeda-2424-697a-3400-000000000700}\r\nProcessId: 1724\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:50.0149081Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.761\r\nProcessGuid: {2eebbeda-2424-697a-3300-000000000700}\r\nProcessId: 1920\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9800161Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.758\r\nProcessGuid: {2eebbeda-2424-697a-3200-000000000700}\r\nProcessId: 1860\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k NetworkService -p -s Dnscache\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9778975Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.601\r\nProcessGuid: {2eebbeda-2424-697a-3100-000000000700}\r\nProcessId: 2040\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9758171Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.492\r\nProcessGuid: {2eebbeda-2424-697a-3000-000000000700}\r\nProcessId: 2028\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s UserManager\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9750883Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.390\r\nProcessGuid: {2eebbeda-2424-697a-2f00-000000000700}\r\nProcessId: 1948\r\nImage: C:\\Windows\\System32\\taskhostw.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Tasks\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: taskhostw.exe\r\nCommandLine: taskhostw.exe ExploitGuardPolicy\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=976BB3FB062818E9643EC7F65BE2F267B90F63BD9F8BE0E6212D131183136140\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 1472\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9735225Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.343\r\nProcessGuid: {2eebbeda-2424-697a-2e00-000000000700}\r\nProcessId: 1924\r\nImage: C:\\Windows\\WinSxS\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.6449_none_7e0d59887c8e1467\\TiWorker.exe\r\nFileVersion: 10.0.19041.6449 (WinBuild.160101.0800)\r\nDescription: Windows Modules Installer Worker\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: TiWorker.exe\r\nCommandLine: C:\\Windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.6449_none_7e0d59887c8e1467\\TiWorker.exe -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=606D88DADCDE114EEE163B871B88BFB2FFC562D122A6A1102B970E68142A2914\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 800\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9708913Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.312\r\nProcessGuid: {2eebbeda-2424-697a-2d00-000000000700}\r\nProcessId: 1888\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalService -p -s FontCache\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9679691Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.301\r\nProcessGuid: {2eebbeda-2424-697a-2c00-000000000700}\r\nProcessId: 1876\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9652171Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.274\r\nProcessGuid: {2eebbeda-2424-697a-2b00-000000000700}\r\nProcessId: 1852\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k LocalService -p -s netprofm\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9575127Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.206\r\nProcessGuid: {2eebbeda-2424-697a-2a00-000000000700}\r\nProcessId: 1808\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s SENS\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9562467Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.186\r\nProcessGuid: {2eebbeda-2424-697a-2800-000000000700}\r\nProcessId: 1764\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalService -p\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9542690Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:44.069\r\nProcessGuid: {2eebbeda-2424-697a-2700-000000000700}\r\nProcessId: 1676\r\nImage: C:\\Windows\\servicing\\TrustedInstaller.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Windows Modules Installer\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: TrustedInstaller.exe\r\nCommandLine: C:\\Windows\\servicing\\TrustedInstaller.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=D6C9EAE7AEA81997D17DBFDB3218D18A1F3421A19C085E3CAB6A9F17919AAF07\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9529086Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:43.983\r\nProcessGuid: {2eebbeda-2423-697a-2600-000000000700}\r\nProcessId: 1628\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k netsvcs -p -s Themes\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9517418Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:43.977\r\nProcessGuid: {2eebbeda-2423-697a-2500-000000000700}\r\nProcessId: 1604\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalService -p -s EventSystem\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\LOCAL SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e503-000000000000}\r\nLogonId: 0x3E5\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9233020Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:43.975\r\nProcessGuid: {2eebbeda-2423-697a-2400-000000000700}\r\nProcessId: 1596\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9213250Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:43.937\r\nProcessGuid: {2eebbeda-2423-697a-2300-000000000700}\r\nProcessId: 1564\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\System32\\svchost.exe -k NetworkService -p -s NlaSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\NETWORK SERVICE\r\nLogonGuid: {2eebbeda-b0c0-697a-e403-000000000000}\r\nLogonId: 0x3E4\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9201862Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-28 14:58:43.922\r\nProcessGuid: {2eebbeda-2423-697a-2200-000000000700}\r\nProcessId: 1544\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s ProfSvc\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {00000000-0000-0000-0000-000000000000}\r\nParentProcessId: 660\r\nParentImage: -\r\nParentCommandLine: -\r\nParentUser: -"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9164348Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-29 00:58:41.621\r\nProcessGuid: {2eebbeda-b0c1-697a-2100-000000000700}\r\nProcessId: 1472\r\nImage: C:\\Windows\\System32\\svchost.exe\r\nFileVersion: 10.0.19041.3636 (WinBuild.160101.0800)\r\nDescription: Host Process for Windows Services\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: svchost.exe\r\nCommandLine: C:\\Windows\\system32\\svchost.exe -k netsvcs -p -s Schedule\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=F13DE58416730D210DAB465B242E9C949FB0A0245EEF45B07C381F0C6C8A43C3\r\nParentProcessGuid: {2eebbeda-b0bf-697a-0b00-000000000700}\r\nParentProcessId: 660\r\nParentImage: C:\\Windows\\System32\\services.exe\r\nParentCommandLine: C:\\Windows\\system32\\services.exe\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9110215Z",
+        "id":  1,
+        "message":  "Process Create:\r\nRuleName: -\r\nUtcTime: 2026-01-29 00:58:41.571\r\nProcessGuid: {2eebbeda-b0c1-697a-2000-000000000700}\r\nProcessId: 1452\r\nImage: C:\\Windows\\System32\\VBoxService.exe\r\nFileVersion: 7.1.6.167084\r\nDescription: VirtualBox Guest Additions Service\r\nProduct: Oracle VirtualBox Guest Additions\r\nCompany: Oracle and/or its affiliates\r\nOriginalFileName: VBoxService.exe\r\nCommandLine: C:\\Windows\\System32\\VBoxService.exe\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {2eebbeda-b0c0-697a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: SHA256=4AB568DB6E2096DDF7D35E7D35B6EE1E5803A3B6690115E064F909E5BA14746B\r\nParentProcessGuid: {2eebbeda-b0bf-697a-0b00-000000000700}\r\nParentProcessId: 660\r\nParentImage: C:\\Windows\\System32\\services.exe\r\nParentCommandLine: C:\\Windows\\system32\\services.exe\r\nParentUser: NT AUTHORITY\\SYSTEM"
+    },
+    {
+        "timeCreated":  "2026-01-28T14:58:49.9085937Z",
+        "id":  5,
+        "message":  "Process terminated:\r\nRuleName: -\r\nUtcTime: 2026-01-29 00:58:41.453\r\nProcessGuid: {2eebbeda-b0c1-697a-1f00-000000000700}\r\nProcessId: 1340\r\nImage: C:\\Windows\\System32\\upfc.exe\r\nUser: NT AUTHORITY\\SYSTEM"
+    }
+]
