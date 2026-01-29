@@ -1,0 +1,9 @@
+Subject: ACTION REQUIRED: Your account has been suspended!
+
+Dear Customer,
+We noticed suspicious activity on your account. For your security, we have temporarily suspended your access.
+To restore your account, you must act IMMEDIATELY.
+Please log in to our secure server to verify your identity:
+http://192.168.100.45/verify_identity
+
+Failure to complete this action within 24 hours will lead to permanent account deletion.

@@ -1,0 +1,11 @@
+Subject: Security alert
+
+From: Google no-reply@accounts.goog1e.com
+
+Content: Google A new sign-in on Mac yaringub@gmail.com
+
+We noticed a new sign-in to your Google Account on a Mac device. If this was you, you don't need to do anything. If not, we'll help you secure your account.
+
+[Check activity]
+
+You can also see security activity at https://myaccount.goog1e.com/notifications

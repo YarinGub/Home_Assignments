@@ -1,0 +1,8 @@
+From: security@paypa1.com
+Subject: Security Alert - New login detected
+
+Someone just logged into your Paypa1 account from a new device in Russia.
+If this was not you, please click the link below to secure your account and change your password:
+https://www.paypa1.com/secure-login-update
+
+Thank you for being a loyal customer.
